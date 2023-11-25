@@ -6,7 +6,7 @@
 
 🔐💻 Exploring the world of cybersecurity and mastering the art of Linux. 🛡️🐧
 
-## Languages and tools I handle:
+## Languages and tools I use:
 - Java ☕
 - C 🔍
 - JavaScript 🌐
