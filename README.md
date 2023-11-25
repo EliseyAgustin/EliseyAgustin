@@ -1,12 +1,12 @@
 ### ¡Hola, Mundo! 👋 Soy Agustín Elisey Larco 🌟
 ---
-📚 Estudiante de Informática y Tecnologías Web en la UNO, Argentina BS.AS.
+## 📚 Estudiante de Informática y Tecnologías Web en la UNO, Argentina BS.AS.
 
 🎓 ¡Con 21 años, apasionado por la tecnología y el aprendizaje autodidacta! 💡
 
 🔐💻 Explorando el mundo de la ciberseguridad y dominando el arte de Linux. 🛡️🐧
 
-Lenguajes y herramientas que manejo:
+## Lenguajes y herramientas que manejo:
 - Java ☕
 - C 🔍
 - JavaScript 🌐
@@ -15,3 +15,8 @@ Lenguajes y herramientas que manejo:
 - PostgreSQL 🐘
 
 ¡Siempre buscando aprender y crecer en este emocionante mundo tecnológico! 🚀✨
+
+¡Contáctame!
+📫 LinkedIn | Twitter | Sitio Web | Correo Electrónico
+
+¡Asegúrate de seguir mi viaje tecnológico! 🌐💻✨
