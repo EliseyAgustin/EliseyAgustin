@@ -17,6 +17,7 @@
 ¡Siempre buscando aprender y crecer en este emocionante mundo tecnológico! 🚀✨
 
 ¡Contáctame!
-📫 LinkedIn | Twitter | Sitio Web | Correo Electrónico
+📫 [LinkedIn](www.linkedin.com/in/agustin-elisey-larco-04b397236)
+ | Twitter | Sitio Web | Correo Electrónico
 
 ¡Asegúrate de seguir mi viaje tecnológico! 🌐💻✨
