@@ -18,6 +18,7 @@
 
 ¡Contáctame!
 📫 [LinkedIn](www.linkedin.com/in/agustin-elisey-larco-04b397236)
- | Twitter | Sitio Web | Correo Electrónico
+ | Twitter | Sitio Web | [Correo Electrónico](mailto:agustinelisey22@gmail.com.com)
+
 
 ¡Asegúrate de seguir mi viaje tecnológico! 🌐💻✨
