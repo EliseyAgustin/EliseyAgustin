@@ -1,12 +1,12 @@
-### ¡Hola, Mundo! 👋 Soy Agustín Elisey Larco 🌟
+### Hello, World! 👋 I'm Agustín Elisey Larco 🌟
 ---
-## 📚 Estudiante de Informática y Tecnologías Web en la [Universidad Nacional Del Oeste](https://www.uno.edu.ar).
+## 📚 Student of Computer Science and Web Technologies at the [Universidad Nacional Del Oeste](https://www.uno.edu.ar).
 
-🎓 ¡Con 21 años, apasionado por la tecnología y el aprendizaje autodidacta! 💡
+🎓 21 years old, passionate about technology and self-taught learning! 💡
 
-🔐💻 Explorando el mundo de la ciberseguridad y dominando el arte de Linux. 🛡️🐧
+🔐💻 Exploring the world of cybersecurity and mastering the art of Linux. 🛡️🐧
 
-## Lenguajes y herramientas que manejo:
+## Languages and tools I handle:
 - Java ☕
 - C 🔍
 - JavaScript 🌐
@@ -14,10 +14,10 @@
 - Bootstrap 🌈
 - PostgreSQL 🐘
 
-¡Siempre buscando aprender y crecer en este emocionante mundo tecnológico! 🚀✨
+Always looking to learn and grow in this exciting tech world! 🚀✨
 
-## ¡Contáctame!
+## Contact me!
 📫 [LinkedIn](www.linkedin.com/in/agustin-elisey-larco-04b397236)
- | [Correo Electrónico](mailto:agustinelisey22@gmail.com)
+ | [E-mail address](mailto:agustinelisey22@gmail.com)
 
-¡Asegúrate de seguir mi viaje tecnológico! 🌐💻✨
+Be sure to follow along on my technological journey! 🌐💻✨
