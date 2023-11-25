@@ -13,6 +13,7 @@
 - HTML & CSS 🖌️
 - Bootstrap 🌈
 - PostgreSQL 🐘
+- Linux 🐧
 
 Always looking to learn and grow in this exciting tech world! 🚀✨
 
