@@ -1,6 +1,6 @@
 ### ¡Hola, Mundo! 👋 Soy Agustín Elisey Larco 🌟
 ---
-## 📚 Estudiante de Informática y Tecnologías Web en la [UNO](https://www.uno.edu.ar).
+## 📚 Estudiante de Informática y Tecnologías Web en la [Universidad Nacional Del Oeste](https://www.uno.edu.ar).
 
 🎓 ¡Con 21 años, apasionado por la tecnología y el aprendizaje autodidacta! 💡
 
