@@ -13,4 +13,5 @@ Lenguajes y herramientas que manejo:
 - HTML & CSS 🖌️
 - Bootstrap 🌈
 - PostgreSQL 🐘
+
 ¡Siempre buscando aprender y crecer en este emocionante mundo tecnológico! 🚀✨
