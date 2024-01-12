@@ -6,9 +6,9 @@
 
 ## ℹ️ About Me
 
-👨‍💻 Cybersecurity analyst and self-taught web developer<br>
-🔍 Always exploring new hacking techniques and web technologies<br>
-🌐 Check out my personal website: [In Progress]()<br>
+👨‍💻 Student of Computer Science and Web Technologies at the [Universidad Nacional Del Oeste](uno.edu.ar)<br>
+🔍 Cybersecurity analyst and self-taught web developer<br>
+🌐 Always exploring new hacking techniques and web technologies<br>
 📚 Currently learning and experimenting with cybersecurity and web development<br>
 
 ## 🚀 Skills
