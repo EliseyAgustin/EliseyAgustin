@@ -38,7 +38,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  ![https://github.com/EliseyAgustin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/EliseyAgustin&theme=dracula&hide_border=true)
+  ![EliseyAgustin's Stats](https://github-readme-stats.vercel.app/api?username=EliseyAgustin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 ## 📫 Let's Connect!
