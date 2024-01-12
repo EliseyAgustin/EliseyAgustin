@@ -38,23 +38,21 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  ![EliseyAgustin's Stats](https://github-readme-stats.vercel.app/api?username=EliseyAgustin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <a href="https://github.com/EliseyAgustin">
+    <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="375"  alt="EliseyAgustin"/>
+  </a>
 </div>
 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="www.linkedin.com/in/agustin-elisey-larco-04b397236" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-YourLinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/YourTwitter" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-YourTwitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:agustinelisey22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-your.email@example.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
 </p>
