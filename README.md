@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/agustin-elisey-larco-04b397236" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-Agustin Elisey Larco-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/linkedin-Agustin%20Elisey%20Larco-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
 </p>
 <p align="center">
