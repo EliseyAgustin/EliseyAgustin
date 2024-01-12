@@ -6,10 +6,10 @@
 
 ## ℹ️ About Me
 
-👨‍💻 Self-taught Ethical Hacker & Web Developer<br>
+👨‍💻 Cybersecurity analyst and self-taught web developer<br>
 🔍 Always exploring new hacking techniques and web technologies<br>
-🌐 Check out my personal website: [hackerdev.com](www.hackerdev.com)<br>
-📚 Currently learning and experimenting with cybersecurity and full-stack web development<br>
+🌐 Check out my personal website: [In Progress]()<br>
+📚 Currently learning and experimenting with cybersecurity and web development<br>
 
 ## 🚀 Skills
 
@@ -29,8 +29,6 @@
 
 ### 🔐 Cybersecurity
 - Ethical Hacking
-- Penetration Testing
-- Cryptography
 
 ### 🛠️ Tools & Technologies
 - Git
@@ -40,10 +38,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/EliseyAgustin/">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="YourUsername"/>
-  </a>
+  ![https://github.com/EliseyAgustin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/EliseyAgustin&theme=dracula&hide_border=true)
 </div>
 
 ## 📫 Let's Connect!
