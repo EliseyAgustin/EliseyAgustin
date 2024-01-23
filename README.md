@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/l378vMZ1IbLcmj3H2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/television-music-video-l378vMZ1IbLcmj3H2">via GIPHY</a></p>
+<p align="center">
+  <img src="https://tenor.com/es/view/linux-computer-os-ghosth-cyber-gif-25074749">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
