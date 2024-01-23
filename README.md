@@ -1,40 +1,38 @@
-<h1 align="center">✨ Welcome to the Digital Odyssey! I'm Agustín Elisey Larco 🧙‍♂️</h1>
+<h1 align="center">Welcome to Agustín Elisey Larco's Digital Odyssey ✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="300">
 </p>
 
-## 🧠 Mind Behind the Code
+## About Me
 
-🎓 Digital Explorer at [Universidad Nacional Del Oeste](http://uno.edu.ar)<br>
-🕵️ Cyber Sleuth fine-tuning the art of digital forensics & web mastery<br>
-🔍 Dialing into the matrix for next-level hacking escapades and web wonders<br>
-📘 At the crossroads of discovery, wielding cybersecurity and web spells<br>
+🎓 I am currently studying at the [Universidad Nacional Del Oeste](http://uno.edu.ar).<br>
+🕵️ I specialize in digital forensics and web development, practicing advanced techniques in these fields.<br>
+🔍 My interests include exploring innovative hacking strategies and crafting web applications.<br>
+📘 I focus on the intersection of cybersecurity and the web, where I apply my knowledge to solve complex problems.<br>
 
-## 🎩 Magic Toolbox
+## Technical Skills
 
-### 💫 Web Conjurations
-- HTML
-- CSS
-- JavaScript
-- Tailwind & Bootstrap Charms
-- PostgreSQL Potions
+### Web Development
+- Proficient in: HTML, CSS, JavaScript
+- Familiar with frameworks: Tailwind, Bootstrap
+- Experienced in database management with PostgreSQL
 
-### 💻 Coding Incantations
+### Programming Languages
 - C
 - Java
 - JavaScript
 - Python
 
-### 🔒 Cryptic Arts
-- Ethical Hacking
+### Information Security
+- Practiced in Ethical Hacking methodologies
 
-### 🔧 Enchanted Gadgets
-- Git
-- VS Code
-- Kali Linux
+### Development Tools
+- Experienced with Git version control
+- Versed in VS Code for code editing
+- Skilled in utilizing Kali Linux for security assessments
 
-## 🔮 GitHub Grimoire
+## GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/EliseyAgustin">
@@ -44,22 +42,21 @@
   </a>
 </div>
 
-## 🚀 Let Our Paths Cross!
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-elisey-larco-04b397236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Quest-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
-</p>
-<p align="center">
   <a href="mailto:agustinelisey22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/OwlPost-agustinelisey22%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-agustinelisey22%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  🌟 May the Source be with You! Happy Hacking & Coding! 🚀
-</p> />
+  Here's to a future where our paths may cross in the journey of innovation. Happy coding!
+</p>g & Coding! 🚀
+</p>
   </a>
 </p>
 
