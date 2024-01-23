@@ -1,3 +1,5 @@
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center">Welcome to Agustín Elisey Larco's GitHub Profile 👨‍💼</h1>
 
 <p align="center">
@@ -10,8 +12,6 @@
 🕵️‍♂️ Aspiring Cybersecurity analyst with a keen interest in web development<br>
 🚀 Exploring the latest in hacking practices and cutting-edge web tech<br>
 🧩 Currently delving into the intricacies of cybersecurity and web app development<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🛠 Technical Skills
 
