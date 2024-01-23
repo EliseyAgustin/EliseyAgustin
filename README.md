@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://tenor.com/es/view/linux-computer-os-ghosth-cyber-gif-25074749](https://tenor.com/bRnfB.gif)">
+  <img src="https://tenor.com/es/view/linux-computer-os-ghosth-cyber-gif-25074749">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
