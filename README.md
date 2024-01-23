@@ -14,9 +14,9 @@
 ## 🛠 Technical Skills
 
 ### 🔖 Web Development Tools
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" />
   </a>
 </p>
 
