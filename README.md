@@ -45,7 +45,7 @@
   </a>
 </div>
 
-## 📬 Connect With Me
+## <img src="https://media.giphy.com/media/0ZPkxtbBrLvpNkPu1v/giphy.gif" width="35"> <b> Connect With Me </b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-elisey-larco-04b397236/" target="_blank">
