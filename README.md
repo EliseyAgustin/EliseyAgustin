@@ -20,20 +20,19 @@
   </a>
 </div>
 
-### 🖥️ Programming Languages
-<p>
+<div align="center">
+  <h3>🖥️ Programming Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,javascript" />
   </a>
-</p>
+</div>
 
-
-### 🧰 Other Tools & Technologies
-<p>
+<div align="center">
+  <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git" />
   </a>
-</p>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
