@@ -1,11 +1,11 @@
 <p align="center">
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 200px></picture>
+  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 200px></picture>
 </p>
 
 <h1 align="center">Welcome to Agustín Elisey Larco's GitHub Profile 👨‍💼</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="300">
 </p>
 
 ## 🧠 About Me
