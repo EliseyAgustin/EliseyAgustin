@@ -38,9 +38,14 @@
 
 <div align="center">
   <a href="https://github.com/EliseyAgustin">
-    <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="450"/>
-    <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="450"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliseyAgustin&theme=graywhite&hide_border=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  </a>
+  <a href="https://github.com/EliseyAgustin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=radical&show_icons=true&hide_border=true&layout=compact" width="400" />
+  </a>
+  <br />
+  <a href="https://github.com/EliseyAgustin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliseyAgustin&theme=radical&hide_border=true" width="800" />
   </a>
 </div>
 
