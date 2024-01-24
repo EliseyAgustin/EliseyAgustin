@@ -4,10 +4,6 @@
 
 <h1 align="center">Welcome to Agustín Elisey Larco's GitHub Profile 👨‍💼</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="300">
-</p>
-
 ## 🧠 About Me
 
 🎓 Computer Science and Web Technologies student at the [Universidad Nacional Del Oeste](https://uno.edu.ar)<br>
@@ -15,7 +11,7 @@
 🚀 Exploring the latest in hacking practices and cutting-edge web tech<br>
 🧩 Currently delving into the intricacies of cybersecurity and web app development<br>
 
-## <img src="https://giphy.com/embed/bCBZaPWhl515tcyVjo" width="35"> Technical Skills
+## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
 
 ### 🔖 Web Development Tools
 <p>
