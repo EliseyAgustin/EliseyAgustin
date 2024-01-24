@@ -13,12 +13,12 @@
 
 ## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
 
-### 🔖 Web Development Tools
-<p align="center">
+<div align="center">
+  <h3>🔖 Web Development Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,postgres" />
   </a>
-</p>
+</div>
 
 ### 🖥️ Programming Languages
 <p>
