@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to Agustín Elisey Larco's GitHub Profile 👨‍💼</h1>
 
-## 🧠 About Me
+##  <img src="https://media.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif" width="35"> <b> About Me </b>
 
 🎓 Computer Science and Web Technologies student at the [Universidad Nacional Del Oeste](https://uno.edu.ar)<br>
 🕵️‍♂️ Aspiring Cybersecurity analyst with a keen interest in web development<br>
