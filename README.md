@@ -15,7 +15,7 @@
 🚀 Exploring the latest in hacking practices and cutting-edge web tech<br>
 🧩 Currently delving into the intricacies of cybersecurity and web app development<br>
 
-## <img src="https://giphy.com/stickers/SundaeHQ-sundae-wrench-toolbox-bCBZaPWhl515tcyVjo" width="35"> Technical Skills
+## <img src="https://giphy.com/embed/bCBZaPWhl515tcyVjo" width="35"> Technical Skills
 
 ### 🔖 Web Development Tools
 <p>
