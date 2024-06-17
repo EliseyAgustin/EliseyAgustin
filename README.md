@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
 
 <div align="center">
-  <h3>🔖 Web Development Tools</h3>
+  <h3>🔖 Web development tools and languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,postgres" />
   </a>
@@ -23,14 +23,14 @@
 <div align="center">
   <h3>🖥️ Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,nodejs" />
   </a>
 </div>
 
 <div align="center">
   <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git,github" />
   </a>
 </div>
 
