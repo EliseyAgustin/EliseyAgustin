@@ -4,18 +4,18 @@
 
 # Agustín Elisey Larco
 
-## Aspiring Cybersecurity Analyst & Web Developer
+## Aspiring Full-Stack Web Developer & QA Tester
 
-Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technologies student with a passion for cybersecurity and web development.
+Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technologies student with a passion for full-stack web development and software quality assurance.
 
 ### 🎓 Education
-- [Universidad Nacional Del Oeste](https://uno.edu.ar) - Computer Science and Web Technologies
+- **Universidad Nacional Del Oeste** - Computer Science and Web Technologies
 
 ### 👨‍💻 About Me
-- 🔒 Aspiring Cybersecurity Analyst
-- 🌐 Web Development Enthusiast
-- 🚀 Exploring cutting-edge web technologies and hacking practices
-- 🧠 Continuously learning and improving my skills in cybersecurity and web application development
+- 🌐 Full-Stack Web Development Enthusiast
+- 🧪 Studying to become a QA Tester
+- 🚀 Exploring cutting-edge web technologies and testing methodologies
+- 🧠 Continuously learning and improving my skills in web development and software quality assurance
 
 ### 🛠 Technical Skills
 
@@ -66,4 +66,4 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technolog
 
 ---
 
-<p align="center">🔍 Dedicated to continuously improving and securing the digital world. 🌐</p>
+<p align="center">🚀 Passionate about creating robust web applications and ensuring software quality. 🧪</p>
