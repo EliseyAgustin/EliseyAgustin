@@ -1,67 +1,69 @@
 <p align="center">
-  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 200px></picture>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200" alt="About Me">
 </p>
 
-<h1 align="center">Welcome to Agustín Elisey Larco's GitHub Profile 👨‍💼</h1>
+# Agustín Elisey Larco
 
-##  <img src="https://media.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif" width="35"> <b> About Me </b>
+## Aspiring Cybersecurity Analyst & Web Developer
 
-🎓 Computer Science and Web Technologies student at the [Universidad Nacional Del Oeste](https://uno.edu.ar)<br>
-🕵️‍♂️ Aspiring Cybersecurity analyst with a keen interest in web development<br>
-🚀 Exploring the latest in hacking practices and cutting-edge web tech<br>
-🧩 Currently delving into the intricacies of cybersecurity and web app development<br>
+Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technologies student with a passion for cybersecurity and web development.
 
-## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
+### 🎓 Education
+- **Universidad Nacional Del Oeste** - Computer Science and Web Technologies
+
+### 👨‍💻 About Me
+- 🔒 Aspiring Cybersecurity Analyst
+- 🌐 Web Development Enthusiast
+- 🚀 Exploring cutting-edge web technologies and hacking practices
+- 🧠 Continuously learning and improving my skills in cybersecurity and web application development
+
+### 🛠 Technical Skills
+
+#### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### Tools & Technologies
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <h3>🔖 Web development tools and languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,postgres" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliseyAgustin&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
+
+### 🌟 Top Languages
 
 <div align="center">
-  <h3>🖥️ Programming Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,nodejs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%">
 </div>
 
-<div align="center">
-  <h3>🧰 Other Tools & Technologies</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git,github" />
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<div align="center">
-  <a href="https://github.com/EliseyAgustin">
-    <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  </a>
-  <a href="https://github.com/EliseyAgustin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=radical&show_icons=true&hide_border=true&layout=compact" width="400" />
-  </a>
-  <br />
-  <a href="https://github.com/EliseyAgustin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliseyAgustin&theme=radical&hide_border=true" width="800" />
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/0ZPkxtbBrLvpNkPu1v/giphy.gif" width="35"> <b> Connect With Me </b>
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-elisey-larco-04b397236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Agustín_Elisey_Larco-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Agustín_Elisey_Larco-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-</p>
-<p align="center">
   <a href="mailto:agustinelisey22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-agustinelisey22%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-agustinelisey22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
-<h4 align="center">🔍 Dedicated to continuously improving and securing the digital world. 🌐</h4>
+<p align="center">🔍 Dedicated to continuously improving and securing the digital world. 🌐</p>
