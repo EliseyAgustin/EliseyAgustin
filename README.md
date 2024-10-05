@@ -9,7 +9,7 @@
 Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technologies student with a passion for cybersecurity and web development.
 
 ### 🎓 Education
-- **Universidad Nacional Del Oeste** - Computer Science and Web Technologies
+- [Universidad Nacional Del Oeste](https://uno.edu.ar) - Computer Science and Web Technologies
 
 ### 👨‍💻 About Me
 - 🔒 Aspiring Cybersecurity Analyst
