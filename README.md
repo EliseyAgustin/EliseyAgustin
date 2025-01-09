@@ -42,12 +42,12 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science and Web Technolog
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=EliseyAgustin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
 
 ### 🌟 Top Languages
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseyAgustin&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%">
 </div>
 
